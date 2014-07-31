@@ -4,5 +4,6 @@ This was a personal exercise in jquery and bootstrap.
 
 Hope you can use it. Thanks. Bye.
 
-Live example here:
-http://sørensen.io/projects/twitch-get/
+Live example on my portfolio site here:
+[Twitch-Get](http://sørensen.io/projects/twitch-get/)
+
