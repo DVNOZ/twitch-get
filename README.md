@@ -7,3 +7,4 @@ Hope you can use it. Thanks. Bye.
 Live example on my portfolio site here:
 [Twitch-Get](http://sørensen.io/projects/twitch-get/)
 
+Update: Doesn't work anymore. justin.tv API taken down.
